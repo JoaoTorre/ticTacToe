@@ -1,3 +1,6 @@
+# Trabalho Prático
+Trabalho prático, realizado com mais 2 colegas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
